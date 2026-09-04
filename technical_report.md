@@ -1,7 +1,5 @@
 # Revisiting a Customer Segmentation Pipeline: Method Selection, Stability, and Validation
 
-**Pragya Nepal**
-
 ## Motivation
 
 During my Master of Science in Business Analytics capstone (W.P. Carey School of Business, Spring 2024), I led the technical and modeling work on a customer segmentation project for an industry client, using K-means clustering on PCA-reduced demographic and behavioral data to identify customer segments for targeted marketing.
